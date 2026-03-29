@@ -175,7 +175,7 @@ Potential improvements include implementing slowly changing dimensions (SCD Type
 - MS Computer Science, University of Nevada, Las Vegas
 - Email: rajeev30403@gmail.com
 - GitHub: https://github.com/Antinodee
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: www.linkedin.com/in/pvn-rajeev
 
 ## 📄 License
 
